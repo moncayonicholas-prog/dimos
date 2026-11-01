@@ -45,6 +45,7 @@ all_blueprints = {
     "coordinator-teleop-xarm6": "dimos.robot.manipulators.xarm.blueprints.teleop:coordinator_teleop_xarm6",
     "coordinator-teleop-xarm7": "dimos.robot.manipulators.xarm.blueprints.teleop:coordinator_teleop_xarm7",
     "coordinator-trajectory-xarm6": "dimos.robot.manipulators.xarm.blueprints.teleop:coordinator_trajectory_xarm6",
+    "coordinator-twolink": "dimos.robot.manipulators.twolink.blueprints.basic:coordinator_twolink",
     "coordinator-velocity-xarm6": "dimos.robot.manipulators.xarm.blueprints.teleop:coordinator_velocity_xarm6",
     "coordinator-xarm6": "dimos.robot.manipulators.xarm.blueprints.basic:coordinator_xarm6",
     "coordinator-xarm7": "dimos.robot.manipulators.xarm.blueprints.basic:coordinator_xarm7",
